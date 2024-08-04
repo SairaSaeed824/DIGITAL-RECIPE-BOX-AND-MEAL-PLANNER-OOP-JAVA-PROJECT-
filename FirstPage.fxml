@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?import javafx.geometry.Insets?>
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.ScrollPane?>
+<?import javafx.scene.effect.Bloom?>
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.layout.HBox?>
+<?import javafx.scene.layout.Pane?>
+<?import javafx.scene.layout.StackPane?>
+<?import javafx.scene.layout.VBox?>
+<?import javafx.scene.text.Font?>
+<?import javafx.scene.text.Text?>
+
+<AnchorPane prefHeight="700.0" prefWidth="1000.0" xmlns="http://javafx.com/javafx/21" xmlns:fx="http://javafx.com/fxml/1" fx:controller="FirstPageController">
+   <children>
+      <ScrollPane layoutX="-2.0" layoutY="-2.0" prefHeight="700.0" prefWidth="1000.0">
+         <content>
+            <StackPane prefHeight="1165.0" prefWidth="1003.0">
+               <children>
+                  <VBox prefHeight="474.0" prefWidth="701.0">
+                     <children>
+                        <StackPane>
+                           <children>
+                             <ImageView fitHeight="394.0" fitWidth="999.0">
+                                 <image>
+                                    <Image url="@img/WhatsApp%20Image%202024-05-18%20at%2013.22.43_9ef7f673.jpg" />
+                                 </image>
+                              </ImageView>
+
+                              <HBox alignment="BOTTOM_RIGHT" spacing="20">
+                                 <Button fx:id="searchbtn" onAction="#handleSearchRecipeButton" styleClass="btn" stylesheets="@intro.css" text="Search Recipe">
+                                    <HBox.margin>
+                                       <Insets bottom="10.0" />
+                                    </HBox.margin></Button>
+                                 <Button fx:id="createplanbtn" onAction="#handleCreateMealPlanButton" prefHeight="38.0" prefWidth="166.0" styleClass="btn" stylesheets="@intro.css" text="Create MealPlan">
+                                    <HBox.margin>
+                                       <Insets bottom="10.0" left="50.0" right="50.0" top="10.0" />
+                                    </HBox.margin></Button>
+                              </HBox>
+                              <Pane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="132.0" prefWidth="682.0">
+                                 <children>
+                                    <Text fill="#fffbfb" fontSmoothingType="LCD" layoutX="350.0" layoutY="42.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Store ,organize,and shop your favourite recipes for free" wrappingWidth="227.13671875">
+                                       <font>
+                                          <Font size="26.0" />
+                                       </font>
+                                    </Text>
+                                 </children>
+                                 <effect>
+                                    <Bloom threshold="0.84" />
+                                 </effect>
+                              </Pane>
+                           </children>
+                        </StackPane>
+                        <StackPane prefHeight="122.0" prefWidth="683.0" />
+                        <AnchorPane prefHeight="834.0" prefWidth="1003.0">
+                           <children>
+                              <Text layoutX="14.0" layoutY="47.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Save recipes from anywhere." wrappingWidth="131.6499481201172">
+                                 <font>
+                                    <Font size="24.0" />
+                                 </font>
+                              </Text>
+                              <Text fill="#404040" layoutX="14.0" layoutY="154.0" strokeType="OUTSIDE" strokeWidth="0.0" text="For the best experience and convenience,  use our app to save recipes and access them easily from your mobile device." wrappingWidth="338.7961826324463">
+                                 <font>
+                                    <Font size="19.0" />
+                                 </font>
+                              </Text>
+                              <ImageView fitHeight="193.0" fitWidth="203.0" layoutX="410.0" layoutY="28.0" pickOnBounds="true" preserveRatio="true">
+                                 <image>
+                                    <Image url="@img/444.jpg" />
+                                 </image>
+                              </ImageView>
+                              <ImageView fitHeight="236.0" fitWidth="239.0" layoutX="15.0" layoutY="305.0" pickOnBounds="true" preserveRatio="true">
+                                 <image>
+                                    <Image url="@img/234.jpg" />
+                                 </image>
+                              </ImageView>
+                              <Text layoutX="418.0" layoutY="324.0" strokeType="OUTSIDE" strokeWidth="0.0" text="View your recipe collection on any device." wrappingWidth="158.5980224609375">
+                                 <font>
+                                    <Font size="24.0" />
+                                 </font>
+                              </Text>
+                              <Text fill="#404040" layoutX="418.0" layoutY="473.0" strokeType="OUTSIDE" strokeWidth="0.0" text="RecipeBox functionality lets you access your recipes from anywhere." wrappingWidth="180.42442321777344">
+                                 <font>
+                                    <Font size="19.0" />
+                                 </font>
+                              </Text>
+                              <ImageView fitHeight="57.0" fitWidth="240.0" layoutX="-8.0" layoutY="469.0" pickOnBounds="true" preserveRatio="true" />
+                              <Text layoutX="17.0" layoutY="667.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Plan your meals and create a shopping list." wrappingWidth="182.40013885498047">
+                                 <font>
+                                    <Font size="24.0" />
+                                 </font>
+                              </Text>
+                              <ImageView fitHeight="234.0" fitWidth="260.0" layoutX="400.0" layoutY="646.0" pickOnBounds="true" preserveRatio="true">
+                                 <image>
+                                    <Image url="@img/555.jpg" />
+                                 </image>
+                              </ImageView>
+                              <Text fill="#404040" layoutX="16.0" layoutY="788.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Add the meals you want to cook and RecipeBox will create your grocery list for you. Take it to the store" wrappingWidth="226.76271057128906">
+                                 <font>
+                                    <Font size="20.0" />
+                                 </font>
+                              </Text>
+                           </children>
+                        </AnchorPane>
+                     </children>
+                  </VBox>
+               </children>
+            </StackPane>
+         </content>
+      </ScrollPane>
+   </children>
+</AnchorPane>

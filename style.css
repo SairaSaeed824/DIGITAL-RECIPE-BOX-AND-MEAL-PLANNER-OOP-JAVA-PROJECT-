@@ -1,0 +1,44 @@
+.background-color{
+
+    -fx-border-radius:25;
+    -fx-background-color:#ffffff;
+    -fx-background-radius: 25 25 25 25;
+    -fx-border-color: #eeeeee;
+
+}
+.button-color{
+    -fx-background-color:#c07937;
+    -fx-background-radius: 30;
+}
+.transparent{
+    -fx-background-color : rgba(0,0,0,0);
+}
+.layout{
+    -fx-background-radius: 0 0 50 0;
+    -fx-background-color: #eeeeee;
+}
+.shadow{
+    -fx-effect: dropShadow(three-pass-box,rgba(0,0,0,1),10.0,0.0,0.5,0.2);
+}
+.itemList{
+    -fx-background-color: #ffffff;
+    -fx-border-radius:25;
+    -fx-background-radius: 25 25 25 25;
+}
+
+.breakfastbtn-color{
+    -fx-background-color:#656038;
+    -fx-background-radius: 20;
+}
+.lunchbtn-color{
+    -fx-background-color:#c1bc6b;
+    -fx-background-radius: 20;
+}
+.dinnerbtn-color{
+    -fx-background-color:#c07937;
+    -fx-background-radius: 20;
+}
+.cardbtn-color{
+    -fx-background-color:#c07937;
+    -fx-background-radius: 15;
+}

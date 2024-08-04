@@ -1,0 +1,151 @@
+Recipe Name,Ingredient Name,Quantity,Unit
+Omelette,Eggs,2.0,each
+Omelette,Butter/Oil,1.0,tablespoon
+Spaghetti Aglio e Olio,Spaghetti,1.0,pound
+Spaghetti Aglio e Olio,Garlic,3.0,cloves
+Spaghetti Aglio e Olio,Olive Oil,3.0,tablespoons
+Spaghetti Aglio e Olio,Red Pepper Flakes,0,Pinch
+Spaghetti Aglio e Olio,Parsley,0,few
+Spaghetti Aglio e Olio,Fresh Basil,3,leaves
+Grilled Cheese Sandwich,Bread,2.0,slices
+Grilled Cheese Sandwich,Cheese,1,Sliced
+Grilled Cheese Sandwich,Butter,1.0,tablespoon
+Greek Salad,Lettuce,1.0,head
+Greek Salad,Cucumber,1.0,cucumber
+Greek Salad,Tomato,2.0,tomatoes
+Greek Salad,Red Onion,0.5,red onion
+Greek Salad,Feta Cheese,0.5,cup
+Greek Salad,Olives,4,according to need
+Greek Salad,Olive Oil,2.0,tablespoons
+Greek Salad,Lemon Juice,1.0,tablespoon
+Greek Salad,Oregano,1.0,teaspoon
+Caprese Salad,Tomato,2.0,tomatoes
+Caprese Salad,Mozzarella Cheese,1.0,ball
+Caprese Salad,Fresh Basil ,2,Leaves
+Caprese Salad,Olive Oil,2.0,tablespoons
+Peanut Butter and Jelly Sandwich,Bread,2.0,slices
+Peanut Butter and Jelly Sandwich,Peanut Butter,2.0,tablespoons
+Peanut Butter and Jelly Sandwich,Jelly/Jam,2.0,tablespoons
+Tuna Salad,Canned Tuna,1.0,can (5 oz)
+Tuna Salad,Mayonnaise,3.0,tablespoons
+Tuna Salad,Celery,0.5,cup (chopped)
+Tuna Salad,Onion,0.25,cup (chopped)
+Tuna Salad,Lemon Juice,1.0,tablespoon
+Tuna Salad,Salt,0,To taste
+Tuna Salad,Pepper,0,To taste
+Fruit Salad,Assorted Fruits,5,To taste
+Fruit Salad,Honey/Lemon Juice,1,spoon
+Guacamole,Avocado,1.0,ripe avocado
+Guacamole,Tomato,0.5,tomato (diced)
+Guacamole,Onion,0.25,cup (chopped red onion)
+Guacamole,Lime Juice,2.0,tablespoons
+Guacamole,Cilantro,0,Chopped
+Guacamole,Salt,0,To taste
+Guacamole,Pepper,0,To taste
+Pancakes,Flour,1.0,cup
+Pancakes,Milk,1.0,cup
+Pancakes,Eggs,2.0,large eggs
+Pancakes,Sugar,2.0,tablespoons
+Pancakes,Baking Powder,2.0,teaspoons
+Pancakes,Butter/Oil, 1,spoon
+Caesar Salad,Romaine Lettuce,1.0,head (chopped)
+Caesar Salad,Caesar Dressing,2,press
+Caesar Salad,Croutons,4, TO taste
+Caesar Salad,Parmesan Cheese,1, Shaved
+Tomato Bruschetta,Baguette,1.0,baguette
+Tomato Bruschetta,Tomatoes,2.0,tomatoes (diced)
+Tomato Bruschetta,Garlic,2.0,cloves (minced)
+Tomato Bruschetta,Basil,3,Leaves
+Tomato Bruschetta,Olive Oil,2.0,tablespoons
+Tomato Bruschetta,Balsamic Vinegar,2,spoon
+Nachos,Tortilla Chips,1.0,bag
+Nachos,Shredded Cheese,1.0,cup
+Nachos,Black Beans,1.0,can (15 oz)
+Nachos,Salsa,2,spoons
+Nachos,Sour Cream,2,spoons
+Hummus,Chickpeas,1.0,can (15 oz)
+Hummus,Tahini,2.0,tablespoons
+Hummus,Garlic,2.0,cloves
+Hummus,Lemon,1,spoon
+Garlic Bread,Bread,1.0,loaf
+Garlic Bread,Butter,2.0,tablespoons
+Garlic Bread,Garlic,2.0,cloves
+Garlic Bread,Parsley,1.0,sprig
+Chicken Caesar Wrap,Tortilla/Wrap,1.0,piece
+Chicken Caesar Wrap,Grilled Chicken,1.0,breast
+Chicken Caesar Wrap,Romaine Lettuce,1.0,head
+Chicken Caesar Wrap,Caesar Dressing,2.0,tablespoons
+Chicken Caesar Wrap,Parmesan Cheese,1.0,ounce
+Bruschetta,Baguette,1.0,loaf
+Bruschetta,Tomatoes,2.0,pieces
+Bruschetta,Garlic,2.0,cloves
+Bruschetta,Basil,3.0,leaves
+Bruschetta,Olive Oil,2.0,tablespoons
+Bruschetta,Balsamic Vinegar,2.0,tablespoons
+Margherita Pizza,Pizza Dough/Crust,1.0,piece
+Margherita Pizza,Tomato Sauce,0.5,cup
+Margherita Pizza,Mozzarella Cheese,4.0,ounces
+Margherita Pizza,Fresh Basil,4.0,leaves
+Margherita Pizza,Olive Oil,1.0,tablespoon
+Rice and Beans,Rice,1.0,cup
+Rice and Beans,Beans ,1.0,can (15 oz)
+Rice and Beans,Onion,1.0,medium
+Rice and Beans,Garlic,2.0,cloves
+Rice and Beans,Cumin,1.0,teaspoon
+Rice and Beans,Chili Powder,1.0,teaspoon
+Quesadillas,Tortillas,2.0,pieces
+Quesadillas,Cheese,1.0,cup
+Quesadillas,Chicken Filling,0.0,To taste
+Caesar Pasta Salad,Pasta,8.0,ounces
+Caesar Pasta Salad,Romaine Lettuce,1.0,head
+Caesar Pasta Salad,Caesar Dressing,0.5,cup
+Caesar Pasta Salad,Cherry Tomatoes,1.0,cup
+Caesar Pasta Salad,Parmesan Cheese,1.0,ounce
+Baked Potato,Potatoes,4.0,medium
+Baked Potato,Butter,2.0,tablespoons
+Baked Potato,Sour Cream,2.0,tablespoons
+Baked Potato,Chives (optional),0.0,To taste
+Tabbouleh,Bulgur Wheat,1.0,cup
+Tabbouleh,Parsley,1.0,bunch
+Tabbouleh,Tomato,1.0,piece
+Tabbouleh,Cucumber,0.5,piece
+Tabbouleh,Onion,0.5,piece
+Tabbouleh,Lemon Juice,2.0,tablespoons
+Tabbouleh,Olive Oil,2.0,tablespoons
+Tabbouleh,Salt,0.0,To taste
+Tabbouleh,Pepper,0.0,To taste
+Deviled Eggs,Eggs,6.0,pieces
+Deviled Eggs,Mayonnaise,0.25,cup
+Deviled Eggs,Mustard,1.0,tablespoon
+Deviled Eggs,Paprika,0.0,To taste
+Greek Yogurt Parfait,Greek Yogurt,1.0,cup
+Greek Yogurt Parfait,Granola,0.5,cup
+Greek Yogurt Parfait,Mixed Berries,1.0,cup
+Greek Yogurt Parfait,Honey (optional),0.0,To taste
+Tacos,Tortillas,2.0,pieces
+Tacos,Ground Beef/Chicken,0.5,pound
+Tacos,Lettuce,1.0,head
+Tacos,Tomato,1.0,piece
+Tacos,Cheese,0.5,cup
+Tacos,Salsa,0.5,cup
+Tacos,Sour Cream,0.25,cup
+Spinach Salad,Baby Spinach,4.0,cups
+Spinach Salad,Mushrooms,0.5,cup
+Spinach Salad,Boiled Eggs,2.0,pieces
+Spinach Salad,Bacon Bits,0.25,cup
+Spinach Salad,Red Onion,0.25,cup
+Spinach Salad,Balsamic Vinaigrette,0.5,cup
+Vegetable Stir-Fry,Mixed Vegetables ,4.0,cups
+Vegetable Stir-Fry,Soy Sauce,3.0,tablespoons
+Vegetable Stir-Fry,Garlic,2.0,cloves
+Vegetable Stir-Fry,Ginger,1.0,tablespoon
+Vegetable Stir-Fry,Oil,2.0,tablespoons
+Cheese Quesadilla,Tortillas,2.0,pieces
+Cheese Quesadilla,Cheese,1.0,cup
+Tomato Soup,Tomatoes,4.0,pieces
+Tomato Soup,Onion,1.0,piece
+Tomato Soup,Garlic,2.0,cloves
+Tomato Soup,Vegetable Broth,2.0,cups
+Tomato Soup,Cream (optional),0.5,cup
+Tomato Soup,Salt,0.0,To taste
+Tomato Soup,Pepper,0.0,To taste

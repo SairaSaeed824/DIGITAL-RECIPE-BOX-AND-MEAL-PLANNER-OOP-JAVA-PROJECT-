@@ -1,0 +1,51 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+/* Changing color and style of the header */
+.header {
+
+}
+
+/* Styling for the new Search Recipe button */
+.recipe-button {
+    -fx-background-color: #ffffff;
+    -fx-text-fill: #c07937;
+
+}
+
+.btn {
+    -fx-font-family: Montserrat, "Helvetica Neue", Arial, sans-serif;
+    -fx-border-width: 2px;
+    -fx-font-weight: 800;
+    -fx-font-size: 15px;
+    -fx-line-height: 1.35em;
+    -fx-margin: 10px 1px;
+    -fx-border-style: none;
+    -fx-border-radius: 3px;
+    -fx-padding: 11px 22px;
+    -fx-cursor: hand;
+    -fx-background-color: #ffffff;
+    -fx-text-fill:  #c07937;
+}
+
+.recipe-button:hover {
+    background-color: #0e0a0a; /* Darker shade for hover effect */
+}
+.mealplan-label{
+    -fx-font-family: 'Cabin Sketch', cursive;
+    -fx-color: #007444;
+    -fx-font-weight: bold;
+    -fx-text-align: center;
+    fx-background-color: #c7f3c0;
+}
+.h2 {
+    -fx-font-size: 10px;
+    -fx-margin-bottom: 30px;
+    -fx-font-weight: 200;
+    -fx-margin-bottom: 8px;;
+    -fx-font-family: inherit;
+    -fx-font-weight: 200;
+    -fx-line-height: 1.2;
+    -fx-color: inherit;
+}
